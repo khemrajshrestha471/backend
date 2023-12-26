@@ -43,7 +43,7 @@ node_modules/
 jspm_packages/
 
 #credentials
-mongo_pwd_backend.txt
+db_credentials.txt
 
 # Snowpack dependency directory (https://snowpack.dev/)
 web_modules/
